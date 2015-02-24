@@ -1,0 +1,32 @@
+{
+  "name": "coffeetape",
+  "version": "1.0.0",
+  "description": "Run tape tests written in coffeescript",
+  "main": "index.js",
+  "bin": "./bin/coffeetape",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0chroma/coffeetape.git"
+  },
+  "keywords": [
+    "coffeescript",
+    "tape",
+    "tap",
+    "testing",
+    "tests",
+    "test"
+  ],
+  "author": "0chroma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0chroma/coffeetape/issues"
+  },
+  "homepage": "https://github.com/0chroma/coffeetape",
+  "dependencies": {
+    "coffee-script": "^1.9.1",
+    "tape": "^3.5.0"
+  }
+}
