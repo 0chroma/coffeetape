@@ -1,0 +1,32 @@
+{
+  "name": "coffeetape",
+  "version": "1.0.0",
+  "description": "Run tape tests written in coffeescript",
+  "main": "index.js",
+  "bin": "./bin/coffeetape",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hflw/coffeetape.git"
+  },
+  "keywords": [
+    "coffeescript",
+    "tape",
+    "tap",
+    "testing",
+    "tests",
+    "test"
+  ],
+  "author": "HFLW",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hflw/coffeetape/issues"
+  },
+  "homepage": "https://github.com/hflw/coffeetape",
+  "dependencies": {
+    "coffee-script": "^1.9.1",
+    "tape": "^3.5.0"
+  }
+}
