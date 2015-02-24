@@ -1,6 +1,6 @@
 {
   "name": "coffeetape",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run tape tests written in coffeescript",
   "main": "index.js",
   "bin": "./bin/coffeetape",
@@ -13,6 +13,7 @@
   },
   "keywords": [
     "coffeescript",
+    "coffee",
     "tape",
     "tap",
     "testing",
