@@ -5,7 +5,7 @@
   "main": "index.js",
   "bin": "./bin/coffeetape",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "coffeetape *.coffee *.coffee.md"
   },
   "repository": {
     "type": "git",
@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/hflw/coffeetape",
   "dependencies": {
-    "coffee-script": "^1.9.1",
-    "tape": "^3.5.0"
+    "coffeescript": "^2.3.2",
+    "tape": "^4.10.1"
   }
 }
